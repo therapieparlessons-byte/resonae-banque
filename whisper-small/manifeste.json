@@ -1,0 +1,44 @@
+{
+ "fichiers": [
+  {
+   "nom": "dec.00",
+   "taille": 80000000,
+   "sha": "c932a74a05fd071dc250e7b6e4492e034234f9b05a3069867d1d6aabf7840a8f"
+  },
+  {
+   "nom": "dec.01",
+   "taille": 80000000,
+   "sha": "fcd0d7e28905418cc3e7bc2bb9e3c36946f208dee97c55156cbf761a3a4782ea"
+  },
+  {
+   "nom": "dec.02",
+   "taille": 80000000,
+   "sha": "ddea2dcf6192226b0e4119780e3e16791ed0d38ca271ef19dee577ec37b34b2a"
+  },
+  {
+   "nom": "dec.03",
+   "taille": 22226114,
+   "sha": "d3a3c79b4ef416d30702be77fe4228b3e165fa4551da38a5f64d381e07cd0adf"
+  },
+  {
+   "nom": "enc.00",
+   "taille": 80000000,
+   "sha": "d329e06389e55694147d885fa8695236fd4b913cda3e5db7ffcf2d9f1c728e80"
+  },
+  {
+   "nom": "enc.01",
+   "taille": 32442483,
+   "sha": "94f55441c0b903d5326b68d687208bd325f14464531e8942c5d12ce99b97bc46"
+  }
+ ],
+ "enc": [
+  "enc.00",
+  "enc.01"
+ ],
+ "dec": [
+  "dec.00",
+  "dec.01",
+  "dec.02",
+  "dec.03"
+ ]
+}
