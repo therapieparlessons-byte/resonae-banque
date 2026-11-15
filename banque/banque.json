@@ -126,34 +126,6 @@
   "ko": 55
  },
  {
-  "id": "cymbale-archet-1",
-  "nom": "Cymbale à l'archet (chant de métal) 1",
-  "cat": "Bols et métal",
-  "mots": "cymbale archet chant bol frotté métal",
-  "f0": 1039.9,
-  "dur": 8.0,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "Suspended Cymbal 1/susCymb1_bow_13.wav",
-  "ko": 120
- },
- {
-  "id": "cymbale-archet-2",
-  "nom": "Cymbale à l'archet (chant de métal) 2",
-  "cat": "Bols et métal",
-  "mots": "cymbale archet chant bol frotté métal",
-  "f0": 3787.94,
-  "dur": 12.5,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "Suspended Cymbal 1/susCymb1_bow_20.wav",
-  "ko": 211
- },
- {
   "id": "cymbale-montee",
   "nom": "Cymbale — montée lente",
   "cat": "Bols et métal",
@@ -166,20 +138,6 @@
   "url": "https://github.com/sgossner/VCSL",
   "src": "Suspended Cymbal 1/susCymb1_cresc_7.5s.wav",
   "ko": 178
- },
- {
-  "id": "cymbale-cloche",
-  "nom": "Cymbale — cloche de la cymbale",
-  "cat": "Bols et métal",
-  "mots": "cymbale cloche frappe",
-  "f0": 906.18,
-  "dur": 6.6,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "Suspended Cymbal 1/susCymb1_hit_bell_mf1.wav",
-  "ko": 95
  },
  {
   "id": "clochette-1",
@@ -588,20 +546,6 @@
   "ko": 65
  },
  {
-  "id": "cymbale-archet-3",
-  "nom": "Cymbale à l'archet (chant de métal) 3",
-  "cat": "Bols et métal",
-  "mots": "cymbale archet chant bol frotté métal",
-  "f0": 694.47,
-  "dur": 8.5,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "Suspended Cymbal 1/susCymb1_bow_7.wav",
-  "ko": 134
- },
- {
   "id": "cloche-tube-mi4",
   "nom": "Cloche tubulaire Mi4",
   "cat": "Bols et métal",
@@ -714,34 +658,6 @@
   "ko": 91
  },
  {
-  "id": "tambour-cadre",
-  "nom": "Tambour sur cadre — frappe",
-  "cat": "Tambours",
-  "mots": "tambour cadre chamanique frappe",
-  "f0": 81.79,
-  "dur": 1.7,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "Frame Drum/HDrumL_Hit_v3_rr1_Sum.wav",
-  "ko": 12
- },
- {
-  "id": "grosse-caisse",
-  "nom": "Grosse caisse — frappe",
-  "cat": "Tambours",
-  "mots": "grosse caisse frappe grave",
-  "f0": 85.92,
-  "dur": 2.1,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "Bass Drum 1/BDrumNew_hit_v5_rr1_Sum.wav",
-  "ko": 13
- },
- {
   "id": "didgeridoo-1",
   "nom": "Didgeridoo — souffle tenu 1",
   "cat": "Bourdons",
@@ -798,48 +714,6 @@
   "ko": 153
  },
  {
-  "id": "psalterion-do4",
-  "nom": "Psaltérion à l'archet — bourdon Do4",
-  "cat": "Bourdons de cordes",
-  "mots": "psaltérion archet cordes bourdon tenu boucle",
-  "f0": 1046.94,
-  "dur": 40.0,
-  "boucle": true,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "BowedPsaltery_C4_Main_LongBow_rr1.wav (prolongé en boucle)",
-  "ko": 902
- },
- {
-  "id": "psalterion-re4",
-  "nom": "Psaltérion à l'archet — bourdon Ré4",
-  "cat": "Bourdons de cordes",
-  "mots": "psaltérion archet cordes bourdon tenu boucle",
-  "f0": 588.41,
-  "dur": 40.0,
-  "boucle": true,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "BowedPsaltery_D4_Main_LongBow_rr1.wav (prolongé en boucle)",
-  "ko": 968
- },
- {
-  "id": "psalterion-mi4",
-  "nom": "Psaltérion à l'archet — bourdon Mi4",
-  "cat": "Bourdons de cordes",
-  "mots": "psaltérion archet cordes bourdon tenu boucle",
-  "f0": 3301.19,
-  "dur": 40.0,
-  "boucle": true,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "BowedPsaltery_E4_Main_LongBow_rr2.wav (prolongé en boucle)",
-  "ko": 915
- },
- {
   "id": "dantranh-dod3",
   "nom": "Dan tranh (cithare) trémolo Do♯3",
   "cat": "Bourdons de cordes",
@@ -894,20 +768,6 @@
   "url": "https://github.com/sgossner/VCSL",
   "src": "Didgeridoo1_Sus3_Main.wav (prolongé en boucle)",
   "ko": 464
- },
- {
-  "id": "psalterion-fad4",
-  "nom": "Psaltérion à l'archet — bourdon Fa♯4",
-  "cat": "Bourdons de cordes",
-  "mots": "psaltérion archet cordes bourdon tenu boucle",
-  "f0": 740.31,
-  "dur": 40.0,
-  "boucle": true,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "BowedPsaltery_F#4_Main_LongBow_rr1.wav (prolongé en boucle)",
-  "ko": 882
  },
  {
   "id": "dantranh-sold2",
@@ -1020,20 +880,6 @@
   "url": "https://freesound.org/people/alex36917/sounds/524605/",
   "src": "rain.ogg",
   "ko": 558
- },
- {
-  "id": "nature-orage",
-  "nom": "Orage",
-  "cat": "Nature",
-  "mots": "orage tonnerre pluie tempête boucle",
-  "f0": null,
-  "dur": 23.7,
-  "boucle": true,
-  "auteur": "Digifish music (édition : Porrumentzio) — via Blanket (R. Mardojai)",
-  "lic": "CC BY",
-  "url": "https://freesound.org/people/digifishmusic/sounds/41739/",
-  "src": "storm.ogg",
-  "ko": 219
  },
  {
   "id": "nature-oiseaux",
