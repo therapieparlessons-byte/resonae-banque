@@ -11,7 +11,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Gong 1/gong_p.wav",
-  "ko": 339
+  "ko": 339,
+  "pics": [
+   143.74,
+   287.26
+  ]
  },
  {
   "id": "gong-moyen",
@@ -25,7 +29,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Gong 1/gong_mf.wav",
-  "ko": 330
+  "ko": 330,
+  "pics": [
+   143.24,
+   345.18,
+   424.86
+  ]
  },
  {
   "id": "gong-fort",
@@ -39,7 +48,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Gong 1/gong_f.wav",
-  "ko": 290
+  "ko": 290,
+  "pics": [
+   143.56,
+   565.84,
+   416.4
+  ]
  },
  {
   "id": "gong-tres-fort",
@@ -53,7 +67,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Gong 1/gong_fff.wav",
-  "ko": 170
+  "ko": 170,
+  "pics": [
+   345.1,
+   478.41,
+   415.9
+  ]
  },
  {
   "id": "gong-2e",
@@ -67,7 +86,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Gong 1/gong_2_mp.wav",
-  "ko": 191
+  "ko": 191,
+  "pics": [
+   295.06,
+   143.95,
+   345.18
+  ]
  },
  {
   "id": "gong-frotte",
@@ -81,7 +105,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Gong 1/gong_scrape_mf.wav",
-  "ko": 106
+  "ko": 106,
+  "pics": [
+   313.55,
+   345.16,
+   424.25
+  ]
  },
  {
   "id": "gong2-plein",
@@ -95,7 +124,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Gong 2/hit_full1.mp3",
-  "ko": 184
+  "ko": 184,
+  "pics": [
+   142.77,
+   285.17,
+   344.78
+  ]
  },
  {
   "id": "gong2-leger",
@@ -109,7 +143,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Gong 2/hit_light1.mp3",
-  "ko": 64
+  "ko": 64,
+  "pics": [
+   143.49,
+   294.92,
+   423.89
+  ]
  },
  {
   "id": "gong2-frotte",
@@ -123,7 +162,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Gong 2/scrape1.mp3",
-  "ko": 55
+  "ko": 55,
+  "pics": [
+   304.53,
+   575.78,
+   394.94
+  ]
  },
  {
   "id": "cymbale-montee",
@@ -137,7 +181,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Suspended Cymbal 1/susCymb1_cresc_7.5s.wav",
-  "ko": 178
+  "ko": 178,
+  "pics": [
+   461.28,
+   329.92,
+   2456.39
+  ]
  },
  {
   "id": "clochette-1",
@@ -151,7 +200,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Hand Bells, Nepalese/HB_1.wav",
-  "ko": 38
+  "ko": 38,
+  "pics": [
+   1099.12
+  ]
  },
  {
   "id": "clochette-2",
@@ -165,7 +217,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Hand Bells, Nepalese/HB_2.wav",
-  "ko": 20
+  "ko": 20,
+  "pics": [
+   944.62
+  ]
  },
  {
   "id": "clochette-3",
@@ -179,7 +234,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Hand Bells, Nepalese/HB_3.wav",
-  "ko": 41
+  "ko": 41,
+  "pics": [
+   1943.1
+  ]
  },
  {
   "id": "cymbalettes",
@@ -193,7 +251,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Finger Cymbals/Fing_Cymb.wav",
-  "ko": 68
+  "ko": 68,
+  "pics": [
+   59.99,
+   119.97,
+   359.87
+  ]
  },
  {
   "id": "verre-red4",
@@ -207,7 +270,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Slow/glass1_D#4_Slow_1_Main.wav",
-  "ko": 433
+  "ko": 433,
+  "pics": [
+   633.06
+  ]
  },
  {
   "id": "verre-fad4",
@@ -221,7 +287,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Slow/glass2_F#4_Slow_1_Main.wav",
-  "ko": 310
+  "ko": 310,
+  "pics": [
+   735.45
+  ]
  },
  {
   "id": "verre-lad4",
@@ -235,7 +304,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Slow/glass3_A#4_Slow_1_Main.wav",
-  "ko": 385
+  "ko": 385,
+  "pics": [
+   962.84
+  ]
  },
  {
   "id": "verre-re5",
@@ -249,7 +321,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Slow/glass4_D5_Slow_2_Main.wav",
-  "ko": 247
+  "ko": 247,
+  "pics": [
+   1178.08
+  ]
  },
  {
   "id": "vibra-la2",
@@ -263,7 +338,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Bowed/Vibes_bowed_A2_rr1_Main.wav",
-  "ko": 175
+  "ko": 175,
+  "pics": [
+   879.34,
+   219.85
+  ]
  },
  {
   "id": "vibra-mi3",
@@ -277,7 +356,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Bowed/Vibes_bowed_E3_rr1_Main.wav",
-  "ko": 228
+  "ko": 228,
+  "pics": [
+   329.49,
+   1317.88
+  ]
  },
  {
   "id": "vibra-sol3",
@@ -291,7 +374,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Bowed/Vibes_bowed_G3_rr1_Main.wav",
-  "ko": 244
+  "ko": 244,
+  "pics": [
+   391.88,
+   1567.28
+  ]
  },
  {
   "id": "vibra-re4",
@@ -305,7 +392,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Bowed/Vibes_bowed_D4_rr1_Main.wav",
-  "ko": 261
+  "ko": 261,
+  "pics": [
+   587.23,
+   2348.62
+  ]
  },
  {
   "id": "vibra-la4",
@@ -319,7 +410,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Bowed/Vibes_bowed_A4_rr1_Main.wav",
-  "ko": 218
+  "ko": 218,
+  "pics": [
+   879.89
+  ]
  },
  {
   "id": "vibra-mi5",
@@ -333,7 +427,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Bowed/Vibes_bowed_E5_rr1_Main.wav",
-  "ko": 170
+  "ko": 170,
+  "pics": [
+   1318.19
+  ]
  },
  {
   "id": "carillon-do3",
@@ -347,7 +444,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Hand Chimes/sus_C3_r01_main.wav",
-  "ko": 199
+  "ko": 199,
+  "pics": [
+   263.73
+  ]
  },
  {
   "id": "carillon-mi3",
@@ -361,7 +461,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Hand Chimes/sus_E3_r01_main.wav",
-  "ko": 209
+  "ko": 209,
+  "pics": [
+   330.82
+  ]
  },
  {
   "id": "carillon-do4",
@@ -375,7 +478,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Hand Chimes/sus_C4_r01_main.wav",
-  "ko": 102
+  "ko": 102,
+  "pics": [
+   523.49
+  ]
  },
  {
   "id": "carillon-mi4",
@@ -389,7 +495,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Hand Chimes/sus_E4_r01_main.wav",
-  "ko": 73
+  "ko": 73,
+  "pics": [
+   660.32
+  ]
  },
  {
   "id": "carillon-la4",
@@ -403,7 +512,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Hand Chimes/sus_A4_r01_main.wav",
-  "ko": 138
+  "ko": 138,
+  "pics": [
+   880.75,
+   1836.1
+  ]
  },
  {
   "id": "carillon-do5",
@@ -417,7 +530,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Hand Chimes/sus_C5_r01_main.wav",
-  "ko": 112
+  "ko": 112,
+  "pics": [
+   1047.23
+  ]
  },
  {
   "id": "cloche-tube-do3",
@@ -431,7 +547,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Tubular Bells 1/chimes_C3_f_rr1.wav",
-  "ko": 183
+  "ko": 183,
+  "pics": [
+   1068.49,
+   1400.42,
+   1767.86
+  ]
  },
  {
   "id": "cloche-tube-re3",
@@ -445,7 +566,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Tubular Bells 1/chimes_D3_ff_rr1.wav",
-  "ko": 305
+  "ko": 305,
+  "pics": [
+   1195.88,
+   588.01,
+   868.49
+  ]
  },
  {
   "id": "cloche-tube-mi3",
@@ -459,7 +585,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Tubular Bells 1/chimes_E3_ff_rr2.wav",
-  "ko": 236
+  "ko": 236,
+  "pics": [
+   974.74,
+   1339.74,
+   660.8
+  ]
  },
  {
   "id": "cloche-tube-do4",
@@ -473,7 +604,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Tubular Bells 1/chimes_C4_ff_rr2.wav",
-  "ko": 313
+  "ko": 313,
+  "pics": [
+   645.25,
+   1535.5,
+   2090.24
+  ]
  },
  {
   "id": "arbre-cloches",
@@ -487,7 +623,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Stroke/BellTree_Stroke_1_Mid.wav",
-  "ko": 63
+  "ko": 63,
+  "pics": [
+   2423.49,
+   2198.03,
+   1259.86
+  ]
  },
  {
   "id": "carillon-vent-montee",
@@ -501,7 +642,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Legacy/windchimes_slowAsc1.wav",
-  "ko": 181
+  "ko": 181,
+  "pics": [
+   1584.16,
+   2009.15,
+   2339.77
+  ]
  },
  {
   "id": "carillon-vent-descente",
@@ -515,7 +661,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Legacy/windchimes_slowDesc1.wav",
-  "ko": 184
+  "ko": 184,
+  "pics": [
+   2257.56,
+   2454.54,
+   2010.6
+  ]
  },
  {
   "id": "carillon-vent-libre",
@@ -529,7 +680,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Legacy/windchimes_random.wav",
-  "ko": 340
+  "ko": 340,
+  "pics": [
+   2404.25,
+   2220.81,
+   2013.53
+  ]
  },
  {
   "id": "gong2-leger-2",
@@ -543,7 +699,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Gong 2/hit_light3.mp3",
-  "ko": 65
+  "ko": 65,
+  "pics": [
+   143.53,
+   120.28,
+   210.71
+  ]
  },
  {
   "id": "cloche-tube-mi4",
@@ -557,7 +718,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Tubular Bells 1/chimes_E4_ff_rr2.wav",
-  "ko": 210
+  "ko": 210,
+  "pics": [
+   819.46,
+   1327.06,
+   1929.62
+  ]
  },
  {
   "id": "carillon-sold4",
@@ -571,7 +737,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Hand Chimes/sus_G#4_r01_main.wav",
-  "ko": 154
+  "ko": 154,
+  "pics": [
+   831.95
+  ]
  },
  {
   "id": "arbre-cloches-2",
@@ -585,7 +754,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Stroke/BellTree_Stroke_6_Mid.wav",
-  "ko": 64
+  "ko": 64,
+  "pics": [
+   1727.63,
+   2423.31,
+   1257.49
+  ]
  },
  {
   "id": "triangle",
@@ -599,7 +773,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Triangles/Triangle1_Hit_v2_rr1_Mid.wav",
-  "ko": 60
+  "ko": 60,
+  "pics": [
+   1435.37,
+   1269.5,
+   53.27
+  ]
  },
  {
   "id": "triangle-roule",
@@ -613,7 +792,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Triangles/Triangle3_Roll_v2_rr1_Mid.wav",
-  "ko": 606
+  "ko": 606,
+  "pics": [
+   1443.53,
+   832.01,
+   1265.2
+  ]
  },
  {
   "id": "timbale-roule-1",
@@ -627,7 +811,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Roll/Timpani1_Roll_v5_rr1_Sum.wav",
-  "ko": 165
+  "ko": 165,
+  "pics": [
+   94.06,
+   166.26,
+   101.35
+  ]
  },
  {
   "id": "timbale-roule-2",
@@ -641,7 +830,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Roll/Timpani3_Roll_v3_rr1_Sum.wav",
-  "ko": 186
+  "ko": 186,
+  "pics": [
+   142.12,
+   132.97,
+   212.55
+  ]
  },
  {
   "id": "tom-roule",
@@ -655,7 +849,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Mallet/TomH_RollM_v2_rr1_Mid.wav",
-  "ko": 91
+  "ko": 91,
+  "pics": [
+   108.41,
+   122.82,
+   145.17
+  ]
  },
  {
   "id": "didgeridoo-1",
@@ -669,7 +868,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Didgeridoo/Didgeridoo1_Sus2_Main.wav",
-  "ko": 174
+  "ko": 174,
+  "pics": [
+   69.45,
+   138.86,
+   626.15
+  ]
  },
  {
   "id": "didgeridoo-2",
@@ -683,7 +887,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Didgeridoo/Didgeridoo1_Sus8_Main.wav",
-  "ko": 244
+  "ko": 244,
+  "pics": [
+   71.06,
+   498.67,
+   712.56
+  ]
  },
  {
   "id": "didgeridoo-phrase",
@@ -697,7 +906,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Didgeridoo/Didgeridoo1_Phrase5_Main.wav",
-  "ko": 121
+  "ko": 121,
+  "pics": [
+   711.47,
+   611.58,
+   666.65
+  ]
  },
  {
   "id": "didgeridoo-phrase-2",
@@ -711,7 +925,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Didgeridoo/Didgeridoo1_Phrase1_Main.wav",
-  "ko": 153
+  "ko": 153,
+  "pics": [
+   68.97,
+   275.12,
+   708.02
+  ]
  },
  {
   "id": "dantranh-dod3",
@@ -725,7 +944,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "C#3_Trem_1.wav (prolongé en boucle)",
-  "ko": 371
+  "ko": 371,
+  "pics": [
+   275.14,
+   550.05,
+   1112.06
+  ]
  },
  {
   "id": "dantranh-fad3",
@@ -739,7 +963,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "F#3_Trem_1.wav (prolongé en boucle)",
-  "ko": 409
+  "ko": 409,
+  "pics": [
+   369.7,
+   740.71,
+   1117.34
+  ]
  },
  {
   "id": "orgue-la1",
@@ -753,7 +982,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "NT5_PedalQuiet_A1_rr1.wav (prolongé en boucle)",
-  "ko": 538
+  "ko": 538,
+  "pics": [
+   219.8,
+   109.5,
+   330.63
+  ]
  },
  {
   "id": "didgeridoo-3",
@@ -767,7 +1001,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Didgeridoo1_Sus3_Main.wav (prolongé en boucle)",
-  "ko": 464
+  "ko": 464,
+  "pics": [
+   69.78,
+   627.16,
+   172.89
+  ]
  },
  {
   "id": "dantranh-sold2",
@@ -781,7 +1020,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "G#2_Trem_1.wav (prolongé en boucle)",
-  "ko": 344
+  "ko": 344,
+  "pics": [
+   414.14,
+   624.55,
+   1249.57
+  ]
  },
  {
   "id": "orgue-do3",
@@ -795,7 +1039,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "NT5_PedalQuiet_C3_rr1.wav (prolongé en boucle)",
-  "ko": 695
+  "ko": 695,
+  "pics": [
+   523.07,
+   261.31
+  ]
  },
  {
   "id": "nature-vagues",
@@ -809,7 +1057,12 @@
   "lic": "CC BY",
   "url": "https://freesound.org/people/Luftrum/sounds/48412/",
   "src": "waves.ogg",
-  "ko": 649
+  "ko": 649,
+  "pics": [
+   266.43,
+   543.3,
+   595.15
+  ]
  },
  {
   "id": "nature-vagues-2",
@@ -823,7 +1076,12 @@
   "lic": "CC BY",
   "url": "https://freesound.org/people/Luftrum/sounds/48412/",
   "src": "waves.ogg",
-  "ko": 507
+  "ko": 507,
+  "pics": [
+   269.28,
+   114.18,
+   90.16
+  ]
  },
  {
   "id": "nature-ruisseau",
@@ -837,7 +1095,12 @@
   "lic": "CC0",
   "url": "https://freesound.org/people/gluckose/sounds/333987/",
   "src": "stream.ogg",
-  "ko": 1066
+  "ko": 1066,
+  "pics": [
+   1135.7,
+   969.56,
+   1254.17
+  ]
  },
  {
   "id": "nature-ruisseau-2",
@@ -851,7 +1114,12 @@
   "lic": "CC0",
   "url": "https://freesound.org/people/gluckose/sounds/333987/",
   "src": "stream.ogg",
-  "ko": 834
+  "ko": 834,
+  "pics": [
+   980.37,
+   919.3,
+   1829.91
+  ]
  },
  {
   "id": "nature-pluie",
@@ -865,7 +1133,12 @@
   "lic": "CC BY",
   "url": "https://freesound.org/people/alex36917/sounds/524605/",
   "src": "rain.ogg",
-  "ko": 713
+  "ko": 713,
+  "pics": [
+   52.74,
+   108.44,
+   61.14
+  ]
  },
  {
   "id": "nature-pluie-2",
@@ -879,7 +1152,12 @@
   "lic": "CC BY",
   "url": "https://freesound.org/people/alex36917/sounds/524605/",
   "src": "rain.ogg",
-  "ko": 558
+  "ko": 558,
+  "pics": [
+   121.03,
+   62.52,
+   44.98
+  ]
  },
  {
   "id": "nature-oiseaux",
@@ -893,7 +1171,12 @@
   "lic": "CC0",
   "url": "https://freesound.org/people/kvgarlic/sounds/156826/",
   "src": "birds.ogg",
-  "ko": 691
+  "ko": 691,
+  "pics": [
+   1927.78,
+   2133.84,
+   2375.66
+  ]
  },
  {
   "id": "nature-oiseaux-2",
@@ -907,7 +1190,12 @@
   "lic": "CC0",
   "url": "https://freesound.org/people/kvgarlic/sounds/156826/",
   "src": "birds.ogg",
-  "ko": 571
+  "ko": 571,
+  "pics": [
+   2376.83,
+   2156.27,
+   88.54
+  ]
  },
  {
   "id": "nature-vent",
@@ -921,7 +1209,12 @@
   "lic": "CC0",
   "url": "https://freesound.org/people/felix.blume/sounds/217506/",
   "src": "wind.ogg",
-  "ko": 112
+  "ko": 112,
+  "pics": [
+   57.48,
+   76.53,
+   66.07
+  ]
  },
  {
   "id": "nature-nuit-ete",
@@ -935,7 +1228,12 @@
   "lic": "Domaine public",
   "url": "https://soundbible.com/2083-Crickets-Chirping-At-Night.html",
   "src": "summer-night.ogg",
-  "ko": 483
+  "ko": 483,
+  "pics": [
+   94.29,
+   77.48,
+   86.08
+  ]
  },
  {
   "id": "nature-feu",
@@ -949,7 +1247,12 @@
   "lic": "Domaine public",
   "url": "https://soundbible.com/1543-Fireplace.html",
   "src": "fireplace.ogg",
-  "ko": 122
+  "ko": 122,
+  "pics": [
+   79.14,
+   68.61,
+   114.5
+  ]
  },
  {
   "id": "nature-barque",
@@ -963,7 +1266,12 @@
   "lic": "CC0",
   "url": "https://freesound.org/people/Falcet/sounds/439365/",
   "src": "boat.ogg",
-  "ko": 312
+  "ko": 312,
+  "pics": [
+   48.97,
+   102.25,
+   73.39
+  ]
  },
  {
   "id": "rythme-coeur-60",
@@ -977,7 +1285,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de frappes VCSL",
-  "ko": 263
+  "ko": 263,
+  "pics": [
+   84.0,
+   79.03,
+   60.91
+  ]
  },
  {
   "id": "rythme-chamane-4",
@@ -991,7 +1304,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de frappes VCSL",
-  "ko": 357
+  "ko": 357,
+  "pics": [
+   91.01,
+   83.47,
+   394.0
+  ]
  },
  {
   "id": "rythme-chamane-3",
@@ -1005,7 +1323,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de frappes VCSL",
-  "ko": 330
+  "ko": 330,
+  "pics": [
+   91.26,
+   83.19,
+   386.2
+  ]
  },
  {
   "id": "rythme-chamane-2",
@@ -1019,7 +1342,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de frappes VCSL",
-  "ko": 301
+  "ko": 301,
+  "pics": [
+   91.07,
+   83.2,
+   394.11
+  ]
  },
  {
   "id": "rythme-cadre-3temps",
@@ -1033,7 +1361,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de frappes VCSL",
-  "ko": 280
+  "ko": 280,
+  "pics": [
+   81.16,
+   224.98,
+   130.76
+  ]
  },
  {
   "id": "rythme-darbuka-maqsum",
@@ -1047,7 +1380,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de frappes VCSL",
-  "ko": 334
+  "ko": 334,
+  "pics": [
+   143.8
+  ]
  },
  {
   "id": "rythme-darbuka-baladi",
@@ -1061,7 +1397,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de frappes VCSL",
-  "ko": 316
+  "ko": 316,
+  "pics": [
+   143.8
+  ]
  },
  {
   "id": "rythme-tambour-fente",
@@ -1075,7 +1414,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de frappes VCSL",
-  "ko": 278
+  "ko": 278,
+  "pics": [
+   155.71,
+   107.93,
+   181.77
+  ]
  },
  {
   "id": "rythme-grosse-caisse-lente",
@@ -1089,7 +1433,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de frappes VCSL",
-  "ko": 228
+  "ko": 228,
+  "pics": [
+   87.5,
+   107.69,
+   62.9
+  ]
  },
  {
   "id": "harpe-glissando",
@@ -1103,7 +1452,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de notes VCSL",
-  "ko": 86
+  "ko": 86,
+  "pics": [
+   329.88,
+   657.04,
+   293.74
+  ]
  },
  {
   "id": "tanpura-do",
@@ -1117,7 +1471,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de notes VCSL",
-  "ko": 557
+  "ko": 557,
+  "pics": [
+   97.56,
+   261.48,
+   292.86
+  ]
  },
  {
   "id": "tanpura-re",
@@ -1131,7 +1490,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de notes VCSL",
-  "ko": 511
+  "ko": 511,
+  "pics": [
+   86.91,
+   233.1,
+   260.94
+  ]
  },
  {
   "id": "harpe-arpege",
@@ -1145,7 +1509,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de notes VCSL",
-  "ko": 557
+  "ko": 557,
+  "pics": [
+   329.92,
+   261.38,
+   293.73
+  ]
  },
  {
   "id": "kalimba-motif",
@@ -1159,7 +1528,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "composé à partir de notes VCSL",
-  "ko": 401
+  "ko": 401,
+  "pics": [
+   421.72,
+   560.68,
+   280.36
+  ]
  },
  {
   "id": "bruit-blanc",
@@ -1173,7 +1547,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "calculé",
-  "ko": 282
+  "ko": 282,
+  "pics": [
+   916.79,
+   472.26,
+   285.09
+  ]
  },
  {
   "id": "bruit-rose",
@@ -1187,7 +1566,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "calculé",
-  "ko": 280
+  "ko": 280,
+  "pics": [
+   41.16,
+   48.44,
+   45.51
+  ]
  },
  {
   "id": "bruit-brun",
@@ -1201,7 +1585,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "calculé",
-  "ko": 281
+  "ko": 281,
+  "pics": [
+   41.77,
+   46.8,
+   52.03
+  ]
  },
  {
   "id": "tambour-ocean-1",
@@ -1215,7 +1604,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "OceanDrum_Sus_1_Mid.wav",
-  "ko": 290
+  "ko": 290,
+  "pics": [
+   549.49,
+   1216.59,
+   1850.22
+  ]
  },
  {
   "id": "tambour-ocean-2",
@@ -1229,7 +1623,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "OceanDrum_Sus_2_Mid.wav",
-  "ko": 189
+  "ko": 189,
+  "pics": [
+   1851.44,
+   1621.42,
+   1471.85
+  ]
  },
  {
   "id": "tambour-ocean-3",
@@ -1243,7 +1642,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "OceanDrum_Sus_3_Mid.wav",
-  "ko": 221
+  "ko": 221,
+  "pics": [
+   1671.76,
+   1462.0,
+   1857.65
+  ]
  },
  {
   "id": "kalimba-kenya-la4",
@@ -1257,7 +1661,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Mbira6_Normal_MainSpirit_A4_k1_vl3_rr2.wav",
-  "ko": 8
+  "ko": 8,
+  "pics": [
+   861.5,
+   499.44,
+   561.56
+  ]
  },
  {
   "id": "kalimba-kenya-si3",
@@ -1271,7 +1680,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Mbira6_Normal_MainSpirit_B3_k12_vl3_rr2.wav",
-  "ko": 19
+  "ko": 19,
+  "pics": [
+   499.02,
+   425.97
+  ]
  },
  {
   "id": "kalimba-kenya-si4",
@@ -1285,7 +1698,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Mbira6_Normal_MainSpirit_B4_k15_vl3_rr2.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   499.41,
+   759.38,
+   426.1
+  ]
  },
  {
   "id": "kalimba-tanzanie-la♯2",
@@ -1299,7 +1717,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "MBira3_pluck_Main_A#2_k8_50_100_rr2.wav",
-  "ko": 52
+  "ko": 52,
+  "pics": [
+   240.94,
+   479.29
+  ]
  },
  {
   "id": "kalimba-tanzanie-si4",
@@ -1313,7 +1735,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "MBira3_pluck_Main_B4_k23_50_100_rr2.wav",
-  "ko": 9
+  "ko": 9,
+  "pics": [
+   963.63,
+   628.76,
+   286.87
+  ]
  },
  {
   "id": "mbira-nyamaropa-la2",
@@ -1327,7 +1754,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "MBira4_pluck_Main_A2_4_50_100_rr2.wav",
-  "ko": 20
+  "ko": 20,
+  "pics": [
+   222.45
+  ]
  },
  {
   "id": "mbira-nyamaropa-la4",
@@ -1341,7 +1771,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "MBira4_pluck_Main_A4_22_50_100_rr3.wav",
-  "ko": 14
+  "ko": 14,
+  "pics": [
+   904.18,
+   742.09
+  ]
  },
  {
   "id": "mbira-mavembe-la3",
@@ -1355,7 +1789,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Mbira5_Normal_MainSpirit_A#3_k18_vl2_rr1.wav",
-  "ko": 17
+  "ko": 17,
+  "pics": [
+   458.42,
+   417.85,
+   390.93
+  ]
  },
  {
   "id": "mbira-nyunga-la3",
@@ -1369,7 +1808,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Mbira2_Normal_MainSpirit_A3_k1_vl3_rr2.wav",
-  "ko": 13
+  "ko": 13,
+  "pics": [
+   433.74,
+   459.05,
+   393.58
+  ]
  },
  {
   "id": "harpe-concert-la2",
@@ -1383,7 +1827,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "KSHarp_A2_mf1.wav",
-  "ko": 93
+  "ko": 93,
+  "pics": [
+   109.54,
+   329.01,
+   219.15
+  ]
  },
  {
   "id": "harpe-concert-la4",
@@ -1397,7 +1846,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "KSHarp_A4_mf1.wav",
-  "ko": 80
+  "ko": 80,
+  "pics": [
+   437.75,
+   1312.2
+  ]
  },
  {
   "id": "harpe-concert-la6",
@@ -1411,7 +1864,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "KSHarp_A6_mf1.wav",
-  "ko": 15
+  "ko": 15,
+  "pics": [
+   1740.77
+  ]
  },
  {
   "id": "harpe-celtique-la♯2",
@@ -1425,7 +1881,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "EWHarp_Normal_A#2_v2_RR1.wav",
-  "ko": 54
+  "ko": 54,
+  "pics": [
+   232.97,
+   466.3
+  ]
  },
  {
   "id": "harpe-celtique-la♯3",
@@ -1439,7 +1899,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "EWHarp_Normal_A#3_v2_RR1.wav",
-  "ko": 34
+  "ko": 34,
+  "pics": [
+   466.2
+  ]
  },
  {
   "id": "harpe-celtique-la♯4",
@@ -1453,7 +1916,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "EWHarp_Normal_A#4_v2_RR1.wav",
-  "ko": 17
+  "ko": 17,
+  "pics": [
+   931.78,
+   1866.12
+  ]
  },
  {
   "id": "strumstick-mi2",
@@ -1467,7 +1934,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Strumstick_Finger_Str1_Main_E2_vl2_rr1.wav",
-  "ko": 113
+  "ko": 113,
+  "pics": [
+   329.73,
+   660.27,
+   494.86
+  ]
  },
  {
   "id": "strumstick-ré2",
@@ -1481,7 +1953,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Strumstick_Finger_Str1_Main_D2_vl2_rr1.wav",
-  "ko": 207
+  "ko": 207,
+  "pics": [
+   440.66,
+   293.53,
+   587.91
+  ]
  },
  {
   "id": "marimba-si2",
@@ -1495,7 +1972,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Marimba_hit_Outrigger_B2_soft_01.wav",
-  "ko": 23
+  "ko": 23,
+  "pics": [
+   247.34
+  ]
  },
  {
   "id": "marimba-si4",
@@ -1509,7 +1989,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Marimba_hit_Outrigger_B4_med_01.wav",
-  "ko": 12
+  "ko": 12,
+  "pics": [
+   987.84
+  ]
  },
  {
   "id": "glockenspiel-do5",
@@ -1523,7 +2006,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "glock_medium_C5_01.wav",
-  "ko": 85
+  "ko": 85,
+  "pics": [
+   1053.66
+  ]
  },
  {
   "id": "glockenspiel-do6",
@@ -1537,7 +2023,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "glock_medium_C6_01.wav",
-  "ko": 29
+  "ko": 29,
+  "pics": [
+   2111.65
+  ]
  },
  {
   "id": "glockenspiel-sol5",
@@ -1551,7 +2040,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "glock_medium_G5_01.wav",
-  "ko": 36
+  "ko": 36,
+  "pics": [
+   1578.76
+  ]
  },
  {
   "id": "glock-tubulaire-la1",
@@ -1565,7 +2057,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "A1_medium1.wav",
-  "ko": 15
+  "ko": 15,
+  "pics": [
+   119.8,
+   104.34,
+   64.82
+  ]
  },
  {
   "id": "glock-tubulaire-si0",
@@ -1579,7 +2076,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "B0_medium1.wav",
-  "ko": 26
+  "ko": 26,
+  "pics": [
+   1982.1
+  ]
  },
  {
   "id": "vibraphone-do3",
@@ -1593,7 +2093,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Vibes_hard_C3_v2_rr1_Main.wav",
-  "ko": 61
+  "ko": 61,
+  "pics": [
+   261.44
+  ]
  },
  {
   "id": "vibraphone-sol3",
@@ -1607,7 +2110,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Vibes_bowed_G3_rr1_Main.wav",
-  "ko": 194
+  "ko": 194,
+  "pics": [
+   391.88,
+   1567.28
+  ]
  },
  {
   "id": "sifflet-ocarina-la4",
@@ -1621,7 +2128,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "StdOcarina_Sus_A#4_rel.wav",
-  "ko": 4
+  "ko": 4,
+  "pics": [
+   921.46
+  ]
  },
  {
   "id": "ocarina-do4",
@@ -1635,7 +2145,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "StdOcarina_Sus_C#4_rel.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   555.37,
+   520.38
+  ]
  },
  {
   "id": "ocarina-mi4",
@@ -1649,7 +2163,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "StdOcarina_Sus_E4_rel.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   656.08
+  ]
  },
  {
   "id": "flute-douce-re4",
@@ -1663,7 +2180,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "AltRecorder_Sus_D4_rr1_Main.wav",
-  "ko": 186
+  "ko": 186,
+  "pics": [
+   587.76,
+   1762.55,
+   1175.22
+  ]
  },
  {
   "id": "flute-douce-la3",
@@ -1677,7 +2199,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "AltRecorder_Sus_A#3_rr1_Main.wav",
-  "ko": 293
+  "ko": 293,
+  "pics": [
+   466.07
+  ]
  },
  {
   "id": "orgue-do2",
@@ -1691,7 +2216,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Rode_Man3Open_C2.wav",
-  "ko": 162
+  "ko": 162,
+  "pics": [
+   523.26,
+   261.83,
+   460.02
+  ]
  },
  {
   "id": "orgue-fa3",
@@ -1705,7 +2235,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Rode_Man3Open_F#3.wav",
-  "ko": 212
+  "ko": 212,
+  "pics": [
+   370.13,
+   1477.77,
+   740.89
+  ]
  },
  {
   "id": "orgue-la3",
@@ -1719,7 +2254,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Rode_Man3Open_A3.wav",
-  "ko": 193
+  "ko": 193,
+  "pics": [
+   439.56,
+   878.89,
+   1758.1
+  ]
  },
  {
   "id": "tambour-cadre-1",
@@ -1733,7 +2273,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "HDrumL_Hit_v2_rr1_Sum.wav",
-  "ko": 16
+  "ko": 16,
+  "pics": [
+   260.09,
+   81.11,
+   134.43
+  ]
  },
  {
   "id": "tambour-cadre-2",
@@ -1747,7 +2292,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "HDrumL_HitMuted_v2_rr1_Sum.wav",
-  "ko": 10
+  "ko": 10,
+  "pics": [
+   140.98,
+   93.4,
+   326.06
+  ]
  },
  {
   "id": "tambour-cadre-3",
@@ -1761,7 +2311,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "HDrumL_Hand_rr1_Sum.wav",
-  "ko": 7
+  "ko": 7,
+  "pics": [
+   92.04,
+   98.18,
+   206.76
+  ]
  },
  {
   "id": "conga-1",
@@ -1775,7 +2330,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Conga_HitN_v2_rr1_Sum.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   164.27,
+   78.56
+  ]
  },
  {
   "id": "conga-2",
@@ -1789,7 +2348,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Conga_HitFM_v1_rr1_Sum.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   83.24,
+   77.97,
+   92.19
+  ]
  },
  {
   "id": "cajon-1",
@@ -1803,7 +2367,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Cajon_hit1_mp_rr1.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   81.19,
+   137.31,
+   148.37
+  ]
  },
  {
   "id": "cajon-2",
@@ -1817,7 +2386,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Cajon_hit2_f_rr1.wav",
-  "ko": 4
+  "ko": 4,
+  "pics": [
+   80.74,
+   133.06,
+   125.8
+  ]
  },
  {
   "id": "bongo-1",
@@ -1831,7 +2405,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "BongoH_Hit1_v2_rr1_Mid.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   300.48,
+   461.09,
+   276.02
+  ]
  },
  {
   "id": "bongo-2",
@@ -1845,7 +2424,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "BongoL_Hit1_v2_rr1_Mid.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   260.89,
+   238.13,
+   516.38
+  ]
  },
  {
   "id": "tambour-fente-aigu",
@@ -1859,7 +2443,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "LogDrumHi_MedM_v2_rr1_Sum.wav",
-  "ko": 7
+  "ko": 7,
+  "pics": [
+   156.15
+  ]
  },
  {
   "id": "tambour-fente-grave",
@@ -1873,7 +2460,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "LogDrumLo_MedM_v2_rr1_Sum.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   108.12,
+   215.54,
+   157.22
+  ]
  },
  {
   "id": "darbuka-frappe-1",
@@ -1887,7 +2479,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Darbuka_1_hit_vl2_rr1.wav",
-  "ko": 9
+  "ko": 9,
+  "pics": [
+   143.77
+  ]
  },
  {
   "id": "darbuka-frappe-2",
@@ -1901,7 +2496,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Darbuka_2_hit_vl2_rr1.wav",
-  "ko": 4
+  "ko": 4,
+  "pics": [
+   728.2,
+   143.99,
+   1078.14
+  ]
  },
  {
   "id": "shaker-descendant",
@@ -1915,7 +2515,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Mid_ShakerDouble_Down_rr1.wav",
-  "ko": 4
+  "ko": 4,
+  "pics": [
+   53.44,
+   91.67,
+   109.85
+  ]
  },
  {
   "id": "shaker-montant",
@@ -1929,7 +2534,8 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Mid_ShakerDouble_Up_rr1.wav",
-  "ko": 3
+  "ko": 3,
+  "pics": []
  },
  {
   "id": "shaker-rapide",
@@ -1943,7 +2549,8 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Mid_ShakerHighFaster_Down_rr1.wav",
-  "ko": 3
+  "ko": 3,
+  "pics": []
  },
  {
   "id": "grand-shaker-1",
@@ -1957,7 +2564,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "LShaker_Shake1D_rr2_Mid.wav",
-  "ko": 6
+  "ko": 6,
+  "pics": [
+   2434.26,
+   2008.87,
+   1587.08
+  ]
  },
  {
   "id": "grand-shaker-2",
@@ -1971,7 +2583,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "LShaker_Shake1U_rr1_Mid.wav",
-  "ko": 7
+  "ko": 7,
+  "pics": [
+   2125.77,
+   2003.27,
+   2283.5
+  ]
  },
  {
   "id": "cabasa-frotté",
@@ -1985,7 +2602,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Cabasa1_Rub_v1_rr1_Mid.wav",
-  "ko": 6
+  "ko": 6,
+  "pics": [
+   53.27,
+   65.85,
+   79.79
+  ]
  },
  {
   "id": "cabasa-frappé",
@@ -1999,7 +2621,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Cabasa1_Hit_rr1_Mid.wav",
-  "ko": 3
+  "ko": 3,
+  "pics": [
+   1419.29,
+   1897.83,
+   2175.32
+  ]
  },
  {
   "id": "grelots-secoues",
@@ -2013,7 +2640,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "sleighbell2_shake1.wav",
-  "ko": 84
+  "ko": 84,
+  "pics": [
+   2447.56,
+   2298.74,
+   1358.71
+  ]
  },
  {
   "id": "guiro",
@@ -2027,7 +2659,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Guiro_Med_rr1_Mid.wav",
-  "ko": 16
+  "ko": 16,
+  "pics": [
+   1689.41,
+   1851.83,
+   1560.15
+  ]
  },
  {
   "id": "claves",
@@ -2041,7 +2678,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Claves1_Hit_v2_rr1_Mid.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   1990.27,
+   1844.17,
+   2123.53
+  ]
  },
  {
   "id": "triangle-1",
@@ -2055,7 +2697,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Triangle1_Hit_v2_rr1_Mid.wav",
-  "ko": 44
+  "ko": 44,
+  "pics": [
+   1435.37,
+   1269.5,
+   53.28
+  ]
  },
  {
   "id": "triangle-2",
@@ -2069,7 +2716,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Triangle1_HitFM_v1_rr1_Mid.wav",
-  "ko": 8
+  "ko": 8,
+  "pics": [
+   52.71,
+   96.64,
+   79.42
+  ]
  },
  {
   "id": "triangle-3",
@@ -2083,7 +2735,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Triangle1_HitM_v1_rr2_Mid.wav",
-  "ko": 10
+  "ko": 10,
+  "pics": [
+   41.29,
+   178.06,
+   89.03
+  ]
  },
  {
   "id": "agogo-aigu",
@@ -2097,7 +2754,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Agogo_High_v2_rr1_Mid.wav",
-  "ko": 9
+  "ko": 9,
+  "pics": [
+   1507.93,
+   52.58,
+   2299.23
+  ]
  },
  {
   "id": "agogo-grave",
@@ -2111,7 +2773,10 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Agogo_Low_v2_rr1_Mid.wav",
-  "ko": 17
+  "ko": 17,
+  "pics": [
+   1046.69
+  ]
  },
  {
   "id": "cymbale-doigts",
@@ -2125,7 +2790,12 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Fing_Cymb.wav",
-  "ko": 50
+  "ko": 50,
+  "pics": [
+   59.99,
+   119.96,
+   359.87
+  ]
  },
  {
   "id": "cloche-vache",
@@ -2139,7 +2809,11 @@
   "lic": "CC0",
   "url": "https://github.com/sgossner/VCSL",
   "src": "Cowbell1_Normal_v3_rr1_Mid.wav",
-  "ko": 5
+  "ko": 5,
+  "pics": [
+   690.22,
+   636.26
+  ]
  },
  {
   "id": "baton-pluie-court",
@@ -2153,7 +2827,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "baton-pluie-court.wav",
-  "ko": 147
+  "ko": 147,
+  "pics": [
+   2475.84,
+   2219.73,
+   2079.96
+  ]
  },
  {
   "id": "baton-pluie-fin",
@@ -2167,7 +2846,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "baton-pluie-fin.wav",
-  "ko": 178
+  "ko": 178,
+  "pics": [
+   2433.64,
+   2266.66,
+   2131.94
+  ]
  },
  {
   "id": "baton-pluie-grave",
@@ -2181,7 +2865,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "baton-pluie-grave.wav",
-  "ko": 534
+  "ko": 534,
+  "pics": [
+   2009.72,
+   1806.35,
+   1698.93
+  ]
  },
  {
   "id": "baton-pluie-long",
@@ -2195,7 +2884,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "baton-pluie-long.wav",
-  "ko": 307
+  "ko": 307,
+  "pics": [
+   2499.17,
+   2358.93,
+   2218.72
+  ]
  },
  {
   "id": "pluie-douce",
@@ -2209,7 +2903,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "pluie-douce.wav",
-  "ko": 582
+  "ko": 582,
+  "pics": [
+   220.36,
+   267.15,
+   205.78
+  ]
  },
  {
   "id": "pluie-forte",
@@ -2223,7 +2922,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "pluie-forte.wav",
-  "ko": 233
+  "ko": 233,
+  "pics": [
+   255.01,
+   335.79,
+   176.49
+  ]
  },
  {
   "id": "pluie-sur-feuilles",
@@ -2237,7 +2941,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "pluie-sur-feuilles.wav",
-  "ko": 366
+  "ko": 366,
+  "pics": [
+   195.12,
+   158.24,
+   179.84
+  ]
  },
  {
   "id": "pluie-sur-tente",
@@ -2251,7 +2960,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "pluie-sur-tente.wav",
-  "ko": 228
+  "ko": 228,
+  "pics": [
+   1055.48,
+   888.55,
+   1446.0
+  ]
  },
  {
   "id": "pluie-sur-toit",
@@ -2265,7 +2979,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "pluie-sur-toit.wav",
-  "ko": 246
+  "ko": 246,
+  "pics": [
+   1576.25,
+   1397.17,
+   1482.24
+  ]
  },
  {
   "id": "cascade",
@@ -2279,7 +2998,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "cascade.wav",
-  "ko": 226
+  "ko": 226,
+  "pics": [
+   282.54,
+   256.78,
+   305.59
+  ]
  },
  {
   "id": "gouttes-eau",
@@ -2293,7 +3017,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "gouttes-eau.wav",
-  "ko": 244
+  "ko": 244,
+  "pics": [
+   813.26,
+   1440.47,
+   1352.74
+  ]
  },
  {
   "id": "ressac-galets",
@@ -2307,7 +3036,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "ressac-galets.wav",
-  "ko": 887
+  "ko": 887,
+  "pics": [
+   45.09,
+   49.79,
+   42.09
+  ]
  },
  {
   "id": "ressac-lointain",
@@ -2321,7 +3055,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "ressac-lointain.wav",
-  "ko": 294
+  "ko": 294,
+  "pics": [
+   48.55,
+   42.93,
+   58.42
+  ]
  },
  {
   "id": "ruisseau-clair",
@@ -2335,7 +3074,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "ruisseau-clair.wav",
-  "ko": 226
+  "ko": 226,
+  "pics": [
+   858.57,
+   1229.29,
+   1317.16
+  ]
  },
  {
   "id": "ruisseau-doux",
@@ -2349,7 +3093,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "ruisseau-doux.wav",
-  "ko": 221
+  "ko": 221,
+  "pics": [
+   876.72,
+   1183.49,
+   628.75
+  ]
  },
  {
   "id": "houle-profonde",
@@ -2363,7 +3112,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "houle-profonde.wav",
-  "ko": 308
+  "ko": 308,
+  "pics": [
+   53.07,
+   45.03,
+   47.87
+  ]
  },
  {
   "id": "vagues-douces",
@@ -2377,7 +3131,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "vagues-douces.wav",
-  "ko": 296
+  "ko": 296,
+  "pics": [
+   49.07,
+   45.88,
+   52.48
+  ]
  },
  {
   "id": "vagues-fortes",
@@ -2391,7 +3150,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "vagues-fortes.wav",
-  "ko": 279
+  "ko": 279,
+  "pics": [
+   41.17,
+   52.8,
+   56.8
+  ]
  },
  {
   "id": "tonnerre-grondement",
@@ -2405,7 +3169,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "tonnerre-grondement.wav",
-  "ko": 94
+  "ko": 94,
+  "pics": [
+   79.81,
+   65.53,
+   85.6
+  ]
  },
  {
   "id": "tonnerre-lointain",
@@ -2419,7 +3188,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "tonnerre-lointain.wav",
-  "ko": 143
+  "ko": 143,
+  "pics": [
+   86.84,
+   81.28,
+   75.77
+  ]
  },
  {
   "id": "vent-dans-les-arbres",
@@ -2433,7 +3207,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "vent-dans-les-arbres.wav",
-  "ko": 464
+  "ko": 464,
+  "pics": [
+   833.88,
+   1871.06,
+   1049.53
+  ]
  },
  {
   "id": "vent-grave",
@@ -2447,7 +3226,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "vent-grave.wav",
-  "ko": 677
+  "ko": 677,
+  "pics": [
+   264.49,
+   222.03,
+   250.1
+  ]
  },
  {
   "id": "vent-leger",
@@ -2461,7 +3245,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "vent-leger.wav",
-  "ko": 623
+  "ko": 623,
+  "pics": [
+   467.71,
+   396.85,
+   421.66
+  ]
  },
  {
   "id": "grillons-aigus",
@@ -2475,7 +3264,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "grillons-aigus.wav",
-  "ko": 764
+  "ko": 764,
+  "pics": [
+   2422.72,
+   2261.86,
+   1859.69
+  ]
  },
  {
   "id": "grillons-doux",
@@ -2489,7 +3283,12 @@
   "lic": "Domaine public",
   "url": "",
   "src": "grillons-doux.wav",
-  "ko": 688
+  "ko": 688,
+  "pics": [
+   2400.29,
+   2234.35,
+   2106.58
+  ]
  },
  {
   "id": "bol-racine-1",
@@ -2503,7 +3302,12 @@
   "lic": "CC BY 4.0",
   "url": "https://freesound.org/s/214024/",
   "src": "Freesound 214024 « klankschaal 1 hamer1 laag.aif », transposé de +11 centièmes de ton",
-  "ko": 400
+  "ko": 400,
+  "pics": [
+   282.5,
+   97.1,
+   548.42
+  ]
  },
  {
   "id": "bol-racine-2",
@@ -2517,7 +3321,12 @@
   "lic": "CC BY 4.0",
   "url": "https://freesound.org/s/436100/",
   "src": "Freesound 436100 « Himalayan Singing Bowl #38 », transposé de -22 centièmes de ton",
-  "ko": 478
+  "ko": 478,
+  "pics": [
+   194.16,
+   563.98,
+   1063.24
+  ]
  },
  {
   "id": "bol-racine-3",
@@ -2531,7 +3340,12 @@
   "lic": "CC BY 4.0",
   "url": "https://freesound.org/s/376592/",
   "src": "Freesound 376592 « sound-bowl_01.flac », transposé de +21 centièmes de ton",
-  "ko": 462
+  "ko": 462,
+  "pics": [
+   571.01,
+   1075.71,
+   194.17
+  ]
  },
  {
   "id": "bol-sacre-1",
@@ -2545,7 +3359,10 @@
   "lic": "CC0",
   "url": "https://freesound.org/s/204917/",
   "src": "Freesound 204917 « Singing bowl c tuned », transposé de +48 centièmes de ton",
-  "ko": 484
+  "ko": 484,
+  "pics": [
+   599.45
+  ]
  },
  {
   "id": "bol-sacre-2",
@@ -2559,7 +3376,12 @@
   "lic": "CC BY 3.0",
   "url": "https://freesound.org/s/522887/",
   "src": "Freesound 522887 « Singing Bowl.wav », transposé de +21 centièmes de ton",
-  "ko": 379
+  "ko": 379,
+  "pics": [
+   566.64,
+   301.61,
+   105.16
+  ]
  },
  {
   "id": "bol-sacre-3",
@@ -2573,7 +3395,11 @@
   "lic": "CC0",
   "url": "https://freesound.org/s/584307/",
   "src": "Freesound 584307 « cuenco de laton.mp3 », transposé de +68 centièmes de ton",
-  "ko": 324
+  "ko": 324,
+  "pics": [
+   596.29,
+   210.4
+  ]
  },
  {
   "id": "bol-plexus-1",
@@ -2587,7 +3413,11 @@
   "lic": "CC0",
   "url": "https://freesound.org/s/48325/",
   "src": "Freesound 48325 « SingingBowl.wav », transposé de -12 centièmes de ton",
-  "ko": 515
+  "ko": 515,
+  "pics": [
+   252.23,
+   726.02
+  ]
  },
  {
   "id": "bol-plexus-2",
@@ -2601,7 +3431,12 @@
   "lic": "CC BY 4.0",
   "url": "https://freesound.org/s/436417/",
   "src": "Freesound 436417 « SingingBowl_#70.mp3 », transposé de +94 centièmes de ton",
-  "ko": 458
+  "ko": 458,
+  "pics": [
+   126.3,
+   711.14,
+   372.4
+  ]
  },
  {
   "id": "bol-plexus-3",
@@ -2615,7 +3450,12 @@
   "lic": "CC BY 3.0",
   "url": "https://freesound.org/s/246408/",
   "src": "Freesound 246408 « Sounds from Purple Glass Bowl Track 05 », transposé de -8 centièmes de ton",
-  "ko": 407
+  "ko": 407,
+  "pics": [
+   444.84,
+   252.54,
+   696.32
+  ]
  },
  {
   "id": "bol-coeur-1",
@@ -2629,7 +3469,12 @@
   "lic": "CC0",
   "url": "https://freesound.org/s/421829/",
   "src": "Freesound 421829 « Tibetan bowl_center hit.wav », transposé de +23 centièmes de ton",
-  "ko": 240
+  "ko": 240,
+  "pics": [
+   272.24,
+   768.43,
+   1451.11
+  ]
  },
  {
   "id": "bol-coeur-2",
@@ -2643,7 +3488,11 @@
   "lic": "CC0",
   "url": "https://freesound.org/s/416021/",
   "src": "Freesound 416021 « small singing bowl fieldrecording with z », transposé de +4 centièmes de ton",
-  "ko": 378
+  "ko": 378,
+  "pics": [
+   1576.73,
+   544.45
+  ]
  },
  {
   "id": "bol-coeur-3",
@@ -2657,7 +3506,12 @@
   "lic": "CC0",
   "url": "https://freesound.org/s/167567/",
   "src": "Freesound 167567 « Klangschale1.wav », transposé de +85 centièmes de ton",
-  "ko": 402
+  "ko": 402,
+  "pics": [
+   758.33,
+   272.2,
+   1411.04
+  ]
  },
  {
   "id": "bol-gorge-1",
@@ -2671,7 +3525,12 @@
   "lic": "CC BY 4.0",
   "url": "https://freesound.org/s/436101/",
   "src": "Freesound 436101 « Himalayan Singing Bowl #30 », transposé de +100 centièmes de ton",
-  "ko": 490
+  "ko": 490,
+  "pics": [
+   138.22,
+   408.42,
+   1226.55
+  ]
  },
  {
   "id": "bol-gorge-2",
@@ -2685,7 +3544,12 @@
   "lic": "CC BY 3.0",
   "url": "https://freesound.org/s/433781/",
   "src": "Freesound 433781 « Singing Bowl 1 (big)/ Klangschale 1.wav », transposé de +6 centièmes de ton",
-  "ko": 381
+  "ko": 381,
+  "pics": [
+   797.47,
+   282.56,
+   1469.27
+  ]
  },
  {
   "id": "bol-gorge-3",
@@ -2699,7 +3563,11 @@
   "lic": "CC0",
   "url": "https://freesound.org/s/389522/",
   "src": "Freesound 389522 « Singing Bowl_23042017 03 [RAW] », transposé de -44 centièmes de ton",
-  "ko": 133
+  "ko": 133,
+  "pics": [
+   1586.8,
+   575.47
+  ]
  },
  {
   "id": "bol-troisieme-oeil-1",
@@ -2713,7 +3581,11 @@
   "lic": "CC BY 4.0",
   "url": "https://freesound.org/s/133681/",
   "src": "Freesound 133681 « singing-bowl-beat.wav », transposé de +84 centièmes de ton",
-  "ko": 446
+  "ko": 446,
+  "pics": [
+   632.63,
+   221.08
+  ]
  },
  {
   "id": "bol-troisieme-oeil-2",
@@ -2727,7 +3599,11 @@
   "lic": "CC0",
   "url": "https://freesound.org/s/170671/",
   "src": "Freesound 170671 « Singing bowl, high and loud », transposé de -69 centièmes de ton",
-  "ko": 249
+  "ko": 249,
+  "pics": [
+   442.54,
+   1231.66
+  ]
  },
  {
   "id": "bol-troisieme-oeil-3",
@@ -2741,7 +3617,12 @@
   "lic": "CC BY 4.0",
   "url": "https://freesound.org/s/436093/",
   "src": "Freesound 436093 « Himalayan Singing Bowl #122 », transposé de +40 centièmes de ton",
-  "ko": 530
+  "ko": 530,
+  "pics": [
+   1180.64,
+   220.88,
+   625.97
+  ]
  },
  {
   "id": "bol-couronne-1",
@@ -2755,7 +3636,12 @@
   "lic": "CC BY 4.0",
   "url": "https://freesound.org/s/214022/",
   "src": "Freesound 214022 « klankschalen laag.aif », transposé de +88 centièmes de ton",
-  "ko": 405
+  "ko": 405,
+  "pics": [
+   85.99,
+   251.67,
+   485.16
+  ]
  },
  {
   "id": "bol-couronne-2",
@@ -2769,7 +3655,12 @@
   "lic": "CC BY 4.0",
   "url": "https://freesound.org/s/80578/",
   "src": "Freesound 80578 « Nepalese Singing Bowl.wav », transposé de +51 centièmes de ton",
-  "ko": 521
+  "ko": 521,
+  "pics": [
+   497.61,
+   948.08,
+   1510.89
+  ]
  },
  {
   "id": "bol-couronne-3",
@@ -2783,6 +3674,11 @@
   "lic": "CC0",
   "url": "https://freesound.org/s/584309/",
   "src": "Freesound 584309 « cuenco de latón 2.mp3 », transposé de +84 centièmes de ton",
-  "ko": 364
+  "ko": 364,
+  "pics": [
+   248.89,
+   478.48,
+   85.15
+  ]
  }
 ]
