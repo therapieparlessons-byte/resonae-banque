@@ -189,57 +189,6 @@
   ]
  },
  {
-  "id": "clochette-1",
-  "nom": "Clochette népalaise 1",
-  "cat": "Bols et métal",
-  "mots": "clochette cloche népal tingsha bol",
-  "f0": 1099.12,
-  "dur": 1.8,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "Hand Bells, Nepalese/HB_1.wav",
-  "ko": 38,
-  "pics": [
-   1099.12
-  ]
- },
- {
-  "id": "clochette-2",
-  "nom": "Clochette népalaise 2",
-  "cat": "Bols et métal",
-  "mots": "clochette cloche népal",
-  "f0": 2579.6,
-  "dur": 0.9,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "Hand Bells, Nepalese/HB_2.wav",
-  "ko": 20,
-  "pics": [
-   944.62
-  ]
- },
- {
-  "id": "clochette-3",
-  "nom": "Clochette népalaise 3",
-  "cat": "Bols et métal",
-  "mots": "clochette cloche népal",
-  "f0": 1942.77,
-  "dur": 2.1,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "Hand Bells, Nepalese/HB_3.wav",
-  "ko": 41,
-  "pics": [
-   1943.1
-  ]
- },
- {
   "id": "cymbalettes",
   "nom": "Cymbalettes (proches des tingshas)",
   "cat": "Bols et métal",
@@ -3679,6 +3628,1240 @@
    248.89,
    478.48,
    85.15
+  ]
+ },
+ {
+  "id": "gong-salute-reverb",
+  "nom": "Gong profond — grande frappe (réverbéré)",
+  "cat": "Gongs",
+  "mots": "gong grave profond grand tam tam frappe long",
+  "dur": 10.0,
+  "boucle": false,
+  "auteur": "strangehorizon (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/627507/",
+  "src": "Freesound 627507",
+  "ko": 34,
+  "pics": [
+   103.49,
+   524.49,
+   586.88
+  ],
+  "f0": 103.49
+ },
+ {
+  "id": "gong-salute-sec",
+  "nom": "Gong profond — grande frappe (sec)",
+  "cat": "Gongs",
+  "mots": "gong grave profond grand tam tam frappe sec",
+  "dur": 10.0,
+  "boucle": false,
+  "auteur": "strangehorizon (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/627508/",
+  "src": "Freesound 627508",
+  "ko": 34,
+  "pics": [
+   586.88,
+   103.52,
+   345.12
+  ],
+  "f0": 586.88
+ },
+ {
+  "id": "gong-chau-1",
+  "nom": "Grand gong chau — frappe 1",
+  "cat": "Gongs",
+  "mots": "gong chau grand grave frappe maillet",
+  "dur": 11.3,
+  "boucle": false,
+  "auteur": "strangehorizon (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/626651/",
+  "src": "Freesound 626651",
+  "ko": 44,
+  "pics": [
+   396.84,
+   302.04,
+   99.55
+  ],
+  "f0": 396.84
+ },
+ {
+  "id": "gong-nappe-grave",
+  "nom": "Gong — longue nappe grave",
+  "cat": "Gongs",
+  "mots": "gong nappe grave drone long profond",
+  "dur": 78.5,
+  "boucle": true,
+  "auteur": "Jim-Bretherick (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/528770/",
+  "src": "Freesound 528770",
+  "ko": 338,
+  "pics": [
+   131.72,
+   197.13,
+   165.76
+  ],
+  "f0": 131.72
+ },
+ {
+  "id": "tingsha-long-1",
+  "nom": "Tingsha népalais — longue résonance 1",
+  "cat": "Bols et métal",
+  "mots": "tingsha clochette népalaise tibétaine cymbales longue résonance",
+  "dur": 9.9,
+  "boucle": false,
+  "auteur": "strangehorizon (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/610441/",
+  "src": "Freesound 610441",
+  "ko": 44,
+  "pics": [
+   2259.5,
+   5746.52,
+   5332.31
+  ],
+  "f0": 2259.5
+ },
+ {
+  "id": "tingsha-long-2",
+  "nom": "Tingsha népalais — longue résonance 2",
+  "cat": "Bols et métal",
+  "mots": "tingsha clochette népalaise tibétaine cymbales longue résonance",
+  "dur": 5.7,
+  "boucle": false,
+  "auteur": "strangehorizon (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/610430/",
+  "src": "Freesound 610430",
+  "ko": 29,
+  "pics": [
+   2242.31,
+   3760.21,
+   3532.84
+  ],
+  "f0": 2242.31
+ },
+ {
+  "id": "tingsha-long-3",
+  "nom": "Tingsha népalais — longue résonance 3",
+  "cat": "Bols et métal",
+  "mots": "tingsha clochette népalaise tibétaine cymbales longue résonance",
+  "dur": 5.7,
+  "boucle": false,
+  "auteur": "strangehorizon (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/610423/",
+  "src": "Freesound 610423",
+  "ko": 29,
+  "pics": [
+   2242.2,
+   3759.67,
+   3532.53
+  ],
+  "f0": 2242.2
+ },
+ {
+  "id": "tingsha-voute",
+  "nom": "Tingsha sous une voûte de pierre",
+  "cat": "Bols et métal",
+  "mots": "tingsha clochette népalaise résonance voûte pierre longue",
+  "dur": 45.0,
+  "boucle": false,
+  "auteur": "henderda (Freesound)",
+  "lic": "CC BY 3.0",
+  "url": "https://freesound.org/s/57603/",
+  "src": "Freesound 57603",
+  "ko": 172,
+  "pics": [
+   2496.55,
+   5728.91
+  ],
+  "f0": 2496.55
+ },
+ {
+  "id": "clochette-tibetaine-longue",
+  "nom": "Petite cloche tibétaine — longue résonance",
+  "cat": "Bols et métal",
+  "mots": "clochette cloche tibétaine népalaise résonance longue",
+  "dur": 40.0,
+  "boucle": false,
+  "auteur": "Noted451 (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/530435/",
+  "src": "Freesound 530435",
+  "ko": 241,
+  "pics": [
+   2776.76,
+   3760.42
+  ],
+  "f0": 2776.76
+ },
+ {
+  "id": "cloche-tibetaine-grave",
+  "nom": "Cloche tibétaine grave",
+  "cat": "Bols et métal",
+  "mots": "cloche tibétaine grave clochette népalaise résonance",
+  "dur": 7.0,
+  "boucle": false,
+  "auteur": "FirediesProductions (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/556138/",
+  "src": "Freesound 556138",
+  "ko": 42,
+  "pics": [
+   2721.25,
+   6452.6
+  ],
+  "f0": 2721.25
+ },
+ {
+  "id": "cymbalettes-nettes-1",
+  "nom": "Cymbalettes — prise propre 1",
+  "cat": "Bols et métal",
+  "mots": "cymbalettes cymbales doigts zills tingsha propre nette",
+  "dur": 7.0,
+  "boucle": false,
+  "auteur": "Luc Henrion (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/439616/",
+  "src": "Freesound 439616",
+  "ko": 37,
+  "pics": [
+   3887.47
+  ],
+  "f0": 3887.47
+ },
+ {
+  "id": "cymbalettes-nettes-2",
+  "nom": "Cymbalettes — prise propre 2",
+  "cat": "Bols et métal",
+  "mots": "cymbalettes cymbales doigts zills propre nette",
+  "dur": 23.6,
+  "boucle": false,
+  "auteur": "thatjeffcarter (Freesound)",
+  "lic": "CC BY 3.0",
+  "url": "https://freesound.org/s/146070/",
+  "src": "Freesound 146070",
+  "ko": 116,
+  "pics": [
+   3047.09,
+   4718.76,
+   6153.07
+  ],
+  "f0": 3047.09
+ },
+ {
+  "id": "cymbalettes-nettes-3",
+  "nom": "Cymbalettes tingsha — prise propre",
+  "cat": "Bols et métal",
+  "mots": "cymbalettes tingsha cymbales propre nette",
+  "dur": 3.4,
+  "boucle": false,
+  "auteur": "steffcaffrey (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/435074/",
+  "src": "Freesound 435074",
+  "ko": 20,
+  "pics": [
+   2934.24
+  ],
+  "f0": 2934.24
+ },
+ {
+  "id": "cymbalettes-rythme",
+  "nom": "Cymbalettes — rythme régulier",
+  "cat": "Bols et métal",
+  "mots": "cymbalettes cymbales doigts rythme régulier tempo",
+  "dur": 5.9,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/184685/",
+  "src": "Freesound 184685",
+  "ko": 25,
+  "pics": [
+   6527.23,
+   2328.27,
+   2745.13
+  ],
+  "f0": 6527.23
+ },
+ {
+  "id": "didgeridoo-boucle-1",
+  "nom": "Didgeridoo — bourdon en boucle 1",
+  "cat": "Bourdons",
+  "mots": "didgeridoo bourdon boucle grave aborigène",
+  "dur": 37.2,
+  "boucle": true,
+  "auteur": "musicbrain (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/376583/",
+  "src": "Freesound 376583",
+  "ko": 142,
+  "pics": [
+   68.6,
+   205.85
+  ],
+  "f0": 68.6
+ },
+ {
+  "id": "didgeridoo-boucle-2",
+  "nom": "Didgeridoo — bourdon en boucle 2",
+  "cat": "Bourdons",
+  "mots": "didgeridoo bourdon boucle grave aborigène",
+  "dur": 21.2,
+  "boucle": true,
+  "auteur": "musicbrain (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/376584/",
+  "src": "Freesound 376584",
+  "ko": 82,
+  "pics": [
+   68.29,
+   205.58
+  ],
+  "f0": 68.29
+ },
+ {
+  "id": "didgeridoo-boucle-3",
+  "nom": "Didgeridoo — bourdon en boucle 3",
+  "cat": "Bourdons",
+  "mots": "didgeridoo bourdon boucle grave aborigène",
+  "dur": 8.8,
+  "boucle": true,
+  "auteur": "musicbrain (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/376588/",
+  "src": "Freesound 376588",
+  "ko": 36,
+  "pics": [
+   68.77,
+   207.26
+  ],
+  "f0": 68.77
+ },
+ {
+  "id": "didgeridoo-pulsation",
+  "nom": "Didgeridoo — pulsation rythmique",
+  "cat": "Bourdons",
+  "mots": "didgeridoo rythme pulsation vibrato grave",
+  "dur": 38.7,
+  "boucle": true,
+  "auteur": "musicbrain (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/394869/",
+  "src": "Freesound 394869",
+  "ko": 163,
+  "pics": [
+   65.86,
+   198.07
+  ],
+  "f0": 65.86
+ },
+ {
+  "id": "didgeridoo-cri",
+  "nom": "Didgeridoo — bourdon et cri",
+  "cat": "Bourdons",
+  "mots": "didgeridoo bourdon cri harmoniques",
+  "dur": 11.6,
+  "boucle": false,
+  "auteur": "musicbrain (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/394867/",
+  "src": "Freesound 394867",
+  "ko": 48,
+  "pics": [
+   64.61,
+   195.01,
+   320.2
+  ],
+  "f0": 64.61
+ },
+ {
+  "id": "didgeridoo-vague",
+  "nom": "Didgeridoo — vague",
+  "cat": "Bourdons",
+  "mots": "didgeridoo vague bourdon souffle grave",
+  "dur": 11.8,
+  "boucle": false,
+  "auteur": "musicbrain (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/394861/",
+  "src": "Freesound 394861",
+  "ko": 52,
+  "pics": [
+   66.2,
+   198.71
+  ],
+  "f0": 66.2
+ },
+ {
+  "id": "cordes-archet-pyramide",
+  "nom": "Cordes frottées d'orchestre — nappe 1",
+  "cat": "Bourdons de cordes",
+  "mots": "cordes frottées archet orchestre violoncelle altos nappe bourdon",
+  "dur": 66.5,
+  "boucle": true,
+  "auteur": "szegvari (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/591400/",
+  "src": "Freesound 591400",
+  "ko": 272,
+  "pics": [
+   165.38,
+   234.01,
+   195.8
+  ],
+  "f0": 165.38
+ },
+ {
+  "id": "cordes-archet-chateau",
+  "nom": "Cordes frottées d'orchestre — nappe 2 grave",
+  "cat": "Bourdons de cordes",
+  "mots": "cordes frottées archet orchestre contrebasse bourdon grave nappe",
+  "dur": 72.5,
+  "boucle": true,
+  "auteur": "szegvari (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/591498/",
+  "src": "Freesound 591498",
+  "ko": 351,
+  "pics": [
+   139.22,
+   131.42,
+   120.27
+  ],
+  "f0": 139.22
+ },
+ {
+  "id": "cordes-archet-temple",
+  "nom": "Cordes frottées d'orchestre — nappe 3",
+  "cat": "Bourdons de cordes",
+  "mots": "cordes frottées archet orchestre bourdon nappe",
+  "dur": 44.5,
+  "boucle": true,
+  "auteur": "szegvari (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/591833/",
+  "src": "Freesound 591833",
+  "ko": 216,
+  "pics": [
+   110.33,
+   155.55,
+   116.93
+  ],
+  "f0": 110.33
+ },
+ {
+  "id": "violon-solo-bourdon",
+  "nom": "Violon seul — bourdon à l'archet",
+  "cat": "Bourdons de cordes",
+  "mots": "violon archet bourdon frotté solo",
+  "dur": 66.5,
+  "boucle": true,
+  "auteur": "szegvari (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/612883/",
+  "src": "Freesound 612883",
+  "ko": 315,
+  "pics": [
+   392.91,
+   589.49,
+   468.97
+  ],
+  "f0": 392.91
+ },
+ {
+  "id": "violoncelle-archet",
+  "nom": "Violoncelle à l'archet — longue note",
+  "cat": "Bourdons de cordes",
+  "mots": "violoncelle archet frotté grave longue note",
+  "dur": 41.0,
+  "boucle": false,
+  "auteur": "PLukx (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/571162/",
+  "src": "Freesound 571162",
+  "ko": 176,
+  "pics": [
+   329.28,
+   1322.35,
+   1984.4
+  ],
+  "f0": 329.28
+ },
+ {
+  "id": "tambour-chaman-grave-1",
+  "nom": "Tambour chamanique grave — rythme 1",
+  "cat": "Tambours",
+  "mots": "tambour chamanique grave profond rythme boucle chaman tribal",
+  "dur": 46.3,
+  "boucle": true,
+  "auteur": "szegvari (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/608998/",
+  "src": "Freesound 608998",
+  "ko": 181,
+  "pics": [
+   95.56,
+   84.62,
+   78.4
+  ]
+ },
+ {
+  "id": "tambour-chaman-grave-2",
+  "nom": "Tambour chamanique grave — rythme 2",
+  "cat": "Tambours",
+  "mots": "tambour chamanique grave profond rythme boucle chaman tribal",
+  "dur": 46.3,
+  "boucle": true,
+  "auteur": "szegvari (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/608997/",
+  "src": "Freesound 608997",
+  "ko": 163,
+  "pics": [
+   112.33,
+   82.18,
+   90.2
+  ]
+ },
+ {
+  "id": "tambour-chaman-lent",
+  "nom": "Tambour grave lent (75 bpm)",
+  "cat": "Tambours",
+  "mots": "tambour grave lent battement boucle chaman 75 bpm",
+  "dur": 11.3,
+  "boucle": true,
+  "auteur": "Macho_Sancho (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/581397/",
+  "src": "Freesound 581397",
+  "ko": 56,
+  "pics": [
+   64.98,
+   49.74,
+   70.02
+  ]
+ },
+ {
+  "id": "tambour-taiko-corps",
+  "nom": "Taiko grave — battement 120 bpm",
+  "cat": "Tambours",
+  "mots": "taiko grave battement boucle 120 bpm",
+  "dur": 36.5,
+  "boucle": true,
+  "auteur": "szegvari (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/625518/",
+  "src": "Freesound 625518",
+  "ko": 139,
+  "pics": [
+   57.13,
+   135.89,
+   107.66
+  ]
+ },
+ {
+  "id": "taiko-grave-boucle",
+  "nom": "Taiko — grands tambours graves",
+  "cat": "Tambours",
+  "mots": "taiko grands tambours graves boucle",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "WelvynZPorterSamples (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/621296/",
+  "src": "Freesound 621296",
+  "ko": 246,
+  "pics": [
+   60.36,
+   78.42,
+   63.83
+  ]
+ },
+ {
+  "id": "rythme-darbuka-arabe",
+  "nom": "Darbouka — rythme arabe",
+  "cat": "Rythmes de tambour",
+  "mots": "darbouka rythme arabe 2/4 doumbek boucle",
+  "dur": 13.5,
+  "boucle": true,
+  "auteur": "nemaavla (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/510745/",
+  "src": "Freesound 510745",
+  "ko": 55,
+  "pics": [
+   94.93,
+   115.35,
+   101.56
+  ]
+ },
+ {
+  "id": "rythme-darbuka-libre",
+  "nom": "Darbouka — jeu libre",
+  "cat": "Rythmes de tambour",
+  "mots": "darbouka jeu libre doumbek rythme",
+  "dur": 8.7,
+  "boucle": true,
+  "auteur": "lopopopooo (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/558937/",
+  "src": "Freesound 558937",
+  "ko": 33,
+  "pics": [
+   129.93,
+   719.05,
+   524.12
+  ]
+ },
+ {
+  "id": "rythme-darbuka-tank",
+  "nom": "Darbouka et tank drum",
+  "cat": "Rythmes de tambour",
+  "mots": "darbouka tank drum rythme boucle",
+  "dur": 7.0,
+  "boucle": true,
+  "auteur": "strangehorizon (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/627680/",
+  "src": "Freesound 627680",
+  "ko": 28,
+  "pics": [
+   101.45
+  ]
+ },
+ {
+  "id": "rythme-doumbek-boucle",
+  "nom": "Doumbek — boucle courte",
+  "cat": "Rythmes de tambour",
+  "mots": "doumbek darbouka boucle courte rythme",
+  "dur": 4.0,
+  "boucle": true,
+  "auteur": "pjcohen (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/413803/",
+  "src": "Freesound 413803",
+  "ko": 16,
+  "pics": [
+   91.02,
+   583.69,
+   409.61
+  ]
+ },
+ {
+  "id": "rythme-ethnique-120",
+  "nom": "Percussions ethniques — 120 bpm",
+  "cat": "Rythmes de tambour",
+  "mots": "percussions ethniques darbouka rythme 120 bpm boucle",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "stevysound (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/467333/",
+  "src": "Freesound 467333",
+  "ko": 270,
+  "pics": [
+   51.84,
+   80.02,
+   72.25
+  ]
+ },
+ {
+  "id": "rythme-tabla-teentaal",
+  "nom": "Tabla — teentaal",
+  "cat": "Rythmes de tambour",
+  "mots": "tabla teentaal rythme indien boucle",
+  "dur": 11.2,
+  "boucle": true,
+  "auteur": "tablage (Freesound)",
+  "lic": "CC BY 3.0",
+  "url": "https://freesound.org/s/525154/",
+  "src": "Freesound 525154",
+  "ko": 47,
+  "pics": [
+   74.02,
+   89.09,
+   804.65
+  ]
+ },
+ {
+  "id": "rythme-tabla-139",
+  "nom": "Tabla — boucle 139 bpm",
+  "cat": "Rythmes de tambour",
+  "mots": "tabla boucle rythme 139 bpm",
+  "dur": 12.3,
+  "boucle": true,
+  "auteur": "MieliTietty (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/536056/",
+  "src": "Freesound 536056",
+  "ko": 47,
+  "pics": [
+   211.61,
+   224.85,
+   331.24
+  ]
+ },
+ {
+  "id": "orage-lointain-long",
+  "nom": "Orage lointain — longue durée",
+  "cat": "Vent et orage",
+  "mots": "orage tonnerre lointain grondement long durée",
+  "dur": 148.5,
+  "boucle": true,
+  "auteur": "TRP (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/577317/",
+  "src": "Freesound 577317",
+  "ko": 683,
+  "pics": [
+   40.75,
+   47.91,
+   153.96
+  ]
+ },
+ {
+  "id": "orage-grave-long",
+  "nom": "Orage — grondements graves, longue durée",
+  "cat": "Vent et orage",
+  "mots": "orage tonnerre grave grondement long durée",
+  "dur": 137.3,
+  "boucle": true,
+  "auteur": "TRP (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/568969/",
+  "src": "Freesound 568969",
+  "ko": 509,
+  "pics": [
+   60.6,
+   66.82,
+   47.82
+  ]
+ },
+ {
+  "id": "orage-tempete-long",
+  "nom": "Tempête et orage — longue durée",
+  "cat": "Vent et orage",
+  "mots": "orage tempête vent tonnerre long durée",
+  "dur": 148.5,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/627033/",
+  "src": "Freesound 627033",
+  "ko": 500,
+  "pics": [
+   53.42,
+   62.68,
+   43.93
+  ]
+ },
+ {
+  "id": "nat-aube-choeur",
+  "nom": "Chœur de l'aube",
+  "cat": "Nature",
+  "mots": "oiseaux aube chœur matin forêt",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "Auroch_Media (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/632132/",
+  "src": "Freesound 632132",
+  "ko": 211,
+  "pics": [
+   48.71,
+   53.43,
+   57.1
+  ]
+ },
+ {
+  "id": "nat-foret-calme-1",
+  "nom": "Forêt calme 1",
+  "cat": "Nature",
+  "mots": "forêt calme oiseaux nature",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/625587/",
+  "src": "Freesound 625587",
+  "ko": 212,
+  "pics": [
+   57.95,
+   51.77,
+   47.13
+  ]
+ },
+ {
+  "id": "nat-foret-calme-2",
+  "nom": "Forêt calme 2 (profonde)",
+  "cat": "Nature",
+  "mots": "forêt calme profonde oiseaux",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/623011/",
+  "src": "Freesound 623011",
+  "ko": 221,
+  "pics": [
+   55.76,
+   51.74,
+   48.71
+  ]
+ },
+ {
+  "id": "nat-foret-automne",
+  "nom": "Forêt d'automne calme",
+  "cat": "Nature",
+  "mots": "forêt automne calme",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/623432/",
+  "src": "Freesound 623432",
+  "ko": 194,
+  "pics": [
+   54.71,
+   50.01,
+   41.02
+  ]
+ },
+ {
+  "id": "nat-oiseaux-foret",
+  "nom": "Oiseaux dans la forêt",
+  "cat": "Nature",
+  "mots": "oiseaux forêt chants",
+  "dur": 57.0,
+  "boucle": true,
+  "auteur": "dibko (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/622998/",
+  "src": "Freesound 622998",
+  "ko": 190,
+  "pics": [
+   149.47,
+   110.28,
+   94.5
+  ]
+ },
+ {
+  "id": "nat-oiseaux-champs",
+  "nom": "Oiseaux entre champs et forêt",
+  "cat": "Nature",
+  "mots": "oiseaux champs forêt",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "dibko (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/622996/",
+  "src": "Freesound 622996",
+  "ko": 205,
+  "pics": [
+   88.14,
+   176.05,
+   351.44
+  ]
+ },
+ {
+  "id": "nat-sternes",
+  "nom": "Sternes et moineaux",
+  "cat": "Nature",
+  "mots": "oiseaux mer sternes moineaux",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "dibko (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/625704/",
+  "src": "Freesound 625704",
+  "ko": 204,
+  "pics": [
+   1785.0,
+   1914.23,
+   1682.03
+  ]
+ },
+ {
+  "id": "nat-grillons",
+  "nom": "Grillons du soir",
+  "cat": "Nature",
+  "mots": "grillons insectes soir nuit été",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "mrrap4food (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/619095/",
+  "src": "Freesound 619095",
+  "ko": 227,
+  "pics": [
+   60.0,
+   539.94
+  ]
+ },
+ {
+  "id": "nat-corneilles-grillons",
+  "nom": "Corneilles et grillons du soir",
+  "cat": "Nature",
+  "mots": "corneilles grillons soir",
+  "dur": 34.1,
+  "boucle": true,
+  "auteur": "HECKFRICKER (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/625405/",
+  "src": "Freesound 625405",
+  "ko": 153,
+  "pics": [
+   45.09,
+   56.22,
+   87.91
+  ]
+ },
+ {
+  "id": "nat-balcon-matin",
+  "nom": "Matin au balcon, à la montagne",
+  "cat": "Nature",
+  "mots": "matin montagne calme ambiance",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "Erbsland-Music (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/628664/",
+  "src": "Freesound 628664",
+  "ko": 221,
+  "pics": [
+   191.35,
+   245.2,
+   129.93
+  ]
+ },
+ {
+  "id": "nat-roseraie",
+  "nom": "Roseraie au calme",
+  "cat": "Nature",
+  "mots": "jardin roseraie calme ambiance",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "don_smith (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/628621/",
+  "src": "Freesound 628621",
+  "ko": 203,
+  "pics": [
+   49.17,
+   199.93,
+   99.72
+  ]
+ },
+ {
+  "id": "nat-lisiere",
+  "nom": "Lisière de forêt à l'aube",
+  "cat": "Nature",
+  "mots": "lisière forêt aube oiseaux",
+  "dur": 51.0,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/619718/",
+  "src": "Freesound 619718",
+  "ko": 197,
+  "pics": [
+   54.1,
+   68.92,
+   60.58
+  ]
+ },
+ {
+  "id": "nat-parc-printemps",
+  "nom": "Parc au printemps",
+  "cat": "Nature",
+  "mots": "parc printemps oiseaux",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/624532/",
+  "src": "Freesound 624532",
+  "ko": 216,
+  "pics": [
+   454.47,
+   485.08,
+   427.69
+  ]
+ },
+ {
+  "id": "nat-foret-calme-3",
+  "nom": "Forêt calme 3",
+  "cat": "Nature",
+  "mots": "forêt calme oiseaux",
+  "dur": 41.4,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/625584/",
+  "src": "Freesound 625584",
+  "ko": 147,
+  "pics": [
+   52.55,
+   46.5,
+   101.58
+  ]
+ },
+ {
+  "id": "eau-cascade",
+  "nom": "Cascade cachée",
+  "cat": "Eau et vagues",
+  "mots": "cascade chute eau forêt",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "BalanceofSounds73 (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/632107/",
+  "src": "Freesound 632107",
+  "ko": 204,
+  "pics": [
+   1212.11,
+   1124.72,
+   1041.03
+  ]
+ },
+ {
+  "id": "eau-riviere-printemps",
+  "nom": "Rivière au printemps",
+  "cat": "Eau et vagues",
+  "mots": "rivière eau courante printemps",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/624294/",
+  "src": "Freesound 624294",
+  "ko": 246,
+  "pics": [
+   84.36,
+   146.28,
+   70.75
+  ]
+ },
+ {
+  "id": "eau-riviere-berge",
+  "nom": "Rivière, au bord de l'eau",
+  "cat": "Eau et vagues",
+  "mots": "rivière berge eau",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/622535/",
+  "src": "Freesound 622535",
+  "ko": 247,
+  "pics": [
+   80.43,
+   72.11,
+   59.78
+  ]
+ },
+ {
+  "id": "eau-riviere-coule",
+  "nom": "Rivière qui coule",
+  "cat": "Eau et vagues",
+  "mots": "rivière eau coule paisible",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "TRP (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/616950/",
+  "src": "Freesound 616950",
+  "ko": 204,
+  "pics": [
+   78.62,
+   66.85,
+   62.92
+  ]
+ },
+ {
+  "id": "eau-murmure-ruisseau",
+  "nom": "Murmure d'un ruisseau",
+  "cat": "Eau et vagues",
+  "mots": "ruisseau murmure eau",
+  "dur": 55.1,
+  "boucle": true,
+  "auteur": "dibko (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/623127/",
+  "src": "Freesound 623127",
+  "ko": 186,
+  "pics": [
+   249.38,
+   232.86,
+   404.89
+  ]
+ },
+ {
+  "id": "eau-plage-vagues",
+  "nom": "Vagues sur la plage",
+  "cat": "Eau et vagues",
+  "mots": "vagues plage mer ressac",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "nlux (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/620110/",
+  "src": "Freesound 620110",
+  "ko": 199,
+  "pics": [
+   41.8,
+   532.09,
+   48.28
+  ]
+ },
+ {
+  "id": "eau-vagues-lac",
+  "nom": "Vagues sur le rivage",
+  "cat": "Eau et vagues",
+  "mots": "vagues rivage eau",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "dibko (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/623129/",
+  "src": "Freesound 623129",
+  "ko": 224,
+  "pics": [
+   1193.5,
+   1725.61,
+   1560.94
+  ]
+ },
+ {
+  "id": "eau-lac-vagues",
+  "nom": "Vagues du lac",
+  "cat": "Eau et vagues",
+  "mots": "vagues lac eau",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "dibko (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/624898/",
+  "src": "Freesound 624898",
+  "ko": 204,
+  "pics": [
+   466.31,
+   942.74,
+   499.63
+  ]
+ },
+ {
+  "id": "eau-vague-douce",
+  "nom": "Vague douce",
+  "cat": "Eau et vagues",
+  "mots": "vague douce mer",
+  "dur": 46.1,
+  "boucle": true,
+  "auteur": "Bigvegie (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/620953/",
+  "src": "Freesound 620953",
+  "ko": 221,
+  "pics": [
+   415.4,
+   261.74,
+   392.18
+  ]
+ },
+ {
+  "id": "eau-vaguelettes",
+  "nom": "Vaguelettes de rivière",
+  "cat": "Eau et vagues",
+  "mots": "vaguelettes rivière eau",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/620426/",
+  "src": "Freesound 620426",
+  "ko": 205,
+  "pics": [
+   72.99,
+   54.4,
+   97.75
+  ]
+ },
+ {
+  "id": "pluie-douce-nat",
+  "nom": "Pluie douce",
+  "cat": "Pluie",
+  "mots": "pluie douce calme",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "carlopatrao (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/632087/",
+  "src": "Freesound 632087",
+  "ko": 185,
+  "pics": [
+   135.99,
+   116.21,
+   106.73
+  ]
+ },
+ {
+  "id": "pluie-tissu",
+  "nom": "Pluie sur un tissu",
+  "cat": "Pluie",
+  "mots": "pluie tissu parapluie",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "TRP (Freesound)",
+  "lic": "CC0",
+  "url": "https://freesound.org/s/616617/",
+  "src": "Freesound 616617",
+  "ko": 183,
+  "pics": [
+   209.83,
+   323.36,
+   82.95
+  ]
+ },
+ {
+  "id": "vent-maison",
+  "nom": "Vent dans la maison",
+  "cat": "Vent et orage",
+  "mots": "vent maison souffle",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/616778/",
+  "src": "Freesound 616778",
+  "ko": 192,
+  "pics": [
+   48.94,
+   75.27,
+   70.2
+  ]
+ },
+ {
+  "id": "vent-orage-7",
+  "nom": "Vent d'orage",
+  "cat": "Vent et orage",
+  "mots": "vent orage tempête",
+  "dur": 58.5,
+  "boucle": true,
+  "auteur": "klankbeeld (Freesound)",
+  "lic": "CC BY 4.0",
+  "url": "https://freesound.org/s/621235/",
+  "src": "Freesound 621235",
+  "ko": 197,
+  "pics": [
+   53.22,
+   56.85,
+   80.59
   ]
  }
 ]
