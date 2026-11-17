@@ -1299,25 +1299,6 @@
   ]
  },
  {
-  "id": "rythme-cadre-3temps",
-  "nom": "Tambour sur cadre — 3 temps",
-  "cat": "Rythmes de tambour",
-  "mots": "tambour cadre valse 3 temps rythme boucle",
-  "f0": 81.13,
-  "dur": 30.0,
-  "boucle": true,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "composé à partir de frappes VCSL",
-  "ko": 280,
-  "pics": [
-   81.16,
-   224.98,
-   130.76
-  ]
- },
- {
   "id": "rythme-darbuka-maqsum",
   "nom": "Darbuka — rythme maqsum",
   "cat": "Rythmes de tambour",
@@ -2208,63 +2189,6 @@
    439.56,
    878.89,
    1758.1
-  ]
- },
- {
-  "id": "tambour-cadre-1",
-  "nom": "Tambour sur cadre — frappe",
-  "cat": "Tambours à main",
-  "mots": "tambour cadre peau main chamanique",
-  "f0": null,
-  "dur": 2.6,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "HDrumL_Hit_v2_rr1_Sum.wav",
-  "ko": 16,
-  "pics": [
-   260.09,
-   81.11,
-   134.43
-  ]
- },
- {
-  "id": "tambour-cadre-2",
-  "nom": "Tambour sur cadre — frappe étouffée",
-  "cat": "Tambours à main",
-  "mots": "tambour cadre peau main chamanique",
-  "f0": null,
-  "dur": 1.5,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "HDrumL_HitMuted_v2_rr1_Sum.wav",
-  "ko": 10,
-  "pics": [
-   140.98,
-   93.4,
-   326.06
-  ]
- },
- {
-  "id": "tambour-cadre-3",
-  "nom": "Tambour sur cadre — à la main",
-  "cat": "Tambours à main",
-  "mots": "tambour cadre peau main chamanique",
-  "f0": null,
-  "dur": 1.1,
-  "boucle": false,
-  "auteur": "Versilian Community Sample Library (VCSL), S. Gossner et coll.",
-  "lic": "CC0",
-  "url": "https://github.com/sgossner/VCSL",
-  "src": "HDrumL_Hand_rr1_Sum.wav",
-  "ko": 7,
-  "pics": [
-   92.04,
-   98.18,
-   206.76
   ]
  },
  {
